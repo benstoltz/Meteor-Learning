@@ -74,6 +74,7 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [Learn Meteor.js Properly](http://javascriptissexy.com/learn-meteor-js-properly/)
 1. [Everything You Need To Know About Async & Meteor](http://phucnguyen.info/blog/everything-you-need-to-know-about-async-meteor/)
 1. [Bullet-proof Meteor applications with Velocity, Unit Testing, Integration Testing and Jasmine](https://doctorllama.wordpress.com/2014/09/22/bullet-proof-internationalised-meteor-applications-with-velocity-unit-testing-integration-testing-and-jasmine/)
+1. [How to test your angular application within meteor](http://farla.io/2015/05/11/unittesting-angular-meteor.html) 
 
 # Books
 
@@ -196,6 +197,7 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [meteor.js by Roger Zurawicki](https://www.youtube.com/watch?v=5URzpBPQ864)
 1. [SFJS #23: Functional Programming and Meteor.js](https://www.youtube.com/watch?v=HAcN3JyQoyY)
 1. [TakeOff 2013 - Meteor.JS - Geoff Schmidt](https://www.youtube.com/watch?v=4mtLCjhxKAs)
+1. [Meteor for Mobile](https://www.youtube.com/watch?v=4dJLPLWMImw)
 
 # More Useful Links
 
