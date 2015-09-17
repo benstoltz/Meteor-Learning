@@ -79,6 +79,7 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [Things I wish someone had told me when I first started learning Meteor.js](https://adilapapaya.wordpress.com/2014/03/12/things-i-wish-someone-told-me-when-i-first-started-learning-meteor-js/)
 1. [Ternopiljs courses by JSSolutions](http://jssolutionsdev.com/ternopiljs)
 1. [Meteor Capture](http://meteorcapture.com/) (many articles)
+1. [Build Slack clone with Meteor](https://scotch.io/tutorials/building-a-slack-clone-in-meteor-js-getting-started) 
 
 # Books
 
@@ -158,6 +159,7 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [Repeeet](https://github.com/meteorhacks/repeeet) - making repet tweeting super simple
 1. [Telescope](https://github.com/TelescopeJS/Telescope) -  a hacker-news clone built entirely on Meteor
 1. [Weworkmeteor](https://github.com/nate-strauser/wework) - a Meteor Job Board and Expert Directory
+1. [meteor-react-example](https://github.com/optilude/meteor-react-example) - Skeletal example showing how to integrate Meteor and React  
 
 # News
 
