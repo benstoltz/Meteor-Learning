@@ -31,7 +31,6 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [Meteor.js - The Perfect Match For Lean Startups](http://www.manuel-schoebel.com/blog/meteorjs-the-perfect-match-for-lean-startups)
 1. [Why web beginners should start with Meteor](https://www.meteor.com/blog/2013/12/13/why-web-beginners-should-start-with-meteor)
 1. [Learn Meteor Fundamentals and Best Practices](http://andrewscala.com/meteor/)
-1. [Meteor's official examples](https://www.meteor.com/examples/)
 1. [Meteor 1.0 Tutorial - Build an app from scratch](http://www.webtempest.com/meteorjs-fromscratch-1)
 1. [Introduction to Realtime Web with Meteor and Node.js](https://www.andrewmunsell.com/blog/introduction-to-realtime-web-meteor-and-nodejs)
 1. [Building a customized accounts ui for Meteor](http://blog.benmcmahen.com/post/41741539120/building-a-customized-accounts-ui-for-meteor)
@@ -79,7 +78,8 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [Things I wish someone had told me when I first started learning Meteor.js](https://adilapapaya.wordpress.com/2014/03/12/things-i-wish-someone-told-me-when-i-first-started-learning-meteor-js/)
 1. [Ternopiljs courses by JSSolutions](http://jssolutionsdev.com/ternopiljs)
 1. [Meteor Capture](http://meteorcapture.com/) (many articles)
-1. [Build Slack clone with Meteor](https://scotch.io/tutorials/building-a-slack-clone-in-meteor-js-getting-started) 
+1. [Build Slack clone with Meteor](https://scotch.io/tutorials/building-a-slack-clone-in-meteor-js-getting-started)
+1. [Back up a production meteor app database and restore it in local machine](http://arvi.io/back-up-a-production-meteor-app-database-and-restore-it-in-local-machine/)
 
 # Books
 
@@ -131,6 +131,7 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [DataForce](http://getdataforce.com/) - the cloud software analytics that helps you to produce insights, so you can focus on what matters to you.
 1. [GID](http://gid.jssolutionsdev.com/) - Task manager.
 1. [Presenteract](https://github.com/zeroasterisk/Presenteract) - MeteorJS Application to create and run interactive presentations
+1. [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The Complete Open Source Chat Solution
 
 # Community
 
